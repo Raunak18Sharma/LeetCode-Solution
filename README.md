@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Simulation
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Greedy
 |  |
 | ------- |
@@ -26,4 +28,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+## Math
+|  |
+| ------- |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 <!---LeetCode Topics End-->
