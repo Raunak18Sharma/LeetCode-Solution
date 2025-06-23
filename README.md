@@ -32,5 +32,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2202-sum-of-k-mirror-numbers](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+## Enumeration
+|  |
+| ------- |
+| [2202-sum-of-k-mirror-numbers](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/2202-sum-of-k-mirror-numbers) |
 <!---LeetCode Topics End-->
