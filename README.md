@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Sorting
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Math
@@ -40,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/2202-sum-of-k-mirror-numbers) |
 ## Array
 |  |
@@ -63,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Backtracking
+|  |
+| ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 <!---LeetCode Topics End-->
