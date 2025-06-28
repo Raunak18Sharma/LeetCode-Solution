@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0001-two-sum) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Greedy
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Counting
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0001-two-sum) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Two Pointers
 |  |
@@ -71,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/2140-longest-subsequence-repeated-k-times) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 <!---LeetCode Topics End-->
