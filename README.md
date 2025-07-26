@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Array
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Two Pointers
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3618-find-the-original-typed-string-ii](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3618-find-the-original-typed-string-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -185,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/1818-maximum-score-from-removing-substrings) |
+## Segment Tree
+|  |
+| ------- |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 <!---LeetCode Topics End-->
