@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0001-two-sum) |
+| [0118-pascals-triangle](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0118-pascals-triangle) |
 | [0594-longest-harmonious-subsequence](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0118-pascals-triangle) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
