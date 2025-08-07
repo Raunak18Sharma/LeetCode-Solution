@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/2689-rearranging-fruits) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3618-find-the-original-typed-string-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Memoization
 |  |
 | ------- |
@@ -234,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3791-fruits-into-baskets-iii) |
+## Matrix
+|  |
+| ------- |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 <!---LeetCode Topics End-->
