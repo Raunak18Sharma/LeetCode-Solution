@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0118-pascals-triangle](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0118-pascals-triangle) |
 | [0594-longest-harmonious-subsequence](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0826-soup-servings) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
