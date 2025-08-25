@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0498-diagonal-traverse) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2479-meeting-rooms-iii](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0118-pascals-triangle](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0118-pascals-triangle) |
+| [0498-diagonal-traverse](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0498-diagonal-traverse) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Probability and Statistics
 |  |
