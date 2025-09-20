@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/2689-rearranging-fruits) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3827-implement-router](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3827-implement-router) |
 ## Greedy
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3827-implement-router) |
 ## Two Pointers
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3827-implement-router) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [3827-implement-router](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3827-implement-router) |
 ## Linked List
 |  |
 | ------- |
@@ -273,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3827-implement-router) |
 ## Matrix
 |  |
 | ------- |
@@ -291,4 +296,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
