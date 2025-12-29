@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0756-pyramid-transition-matrix](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0756-pyramid-transition-matrix) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0594-longest-harmonious-subsequence) |
+| [0756-pyramid-transition-matrix](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0756-pyramid-transition-matrix) |
 | [0900-reordered-power-of-2](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0679-24-game](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0756-pyramid-transition-matrix) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Heap (Priority Queue)
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0231-power-of-two) |
+| [0756-pyramid-transition-matrix](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
