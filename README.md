@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0231-power-of-two) |
 | [0756-pyramid-transition-matrix](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/Raunak18Sharma/LeetCode-Solution/tree/master/0190-reverse-bits) |
 ## Queue
 |  |
 | ------- |
